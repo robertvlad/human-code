@@ -10,13 +10,12 @@ Comprare qualcosa su Amazon per Silvia
 
 		Compra lampada
 	
-4)	ALTRIMENTI Cerca stilografica
+	ALTRIMENTI Cerca stilografica
 	
 		? SE è nel mio budget
 
 			Compra stilografica
 
-5)		ALTRIMENTI Cerca il libro
+		ALTRIMENTI Cerca il libro
 
 			Compra libro
-
