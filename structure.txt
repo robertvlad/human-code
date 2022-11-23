@@ -1,0 +1,22 @@
+Comprare qualcosa su Amazon per Silvia
+
+1) Cerca regalo
+
+2) Apri Amazon
+
+3) Cerca lampada da tavolo
+
+	? SE Consegna è prime 
+
+		Compra lampada
+	
+4)	ALTRIMENTI Cerca stilografica
+	
+		? SE è nel mio budget
+
+			Compra stilografica
+
+5)		ALTRIMENTI Cerca il libro
+
+			Compra libro
+
